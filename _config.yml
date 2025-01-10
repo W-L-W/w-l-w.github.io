@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Lennie's personal website"
+title                    : "Lennie Wells" # displayed in top left when on different pages
 title_separator          : "-"
 name                     : &name "Lennie Wells"
 description              : &description "Lennie's website using academic pages theme."
@@ -21,7 +21,7 @@ repository               : "W-L-W/w-l-w.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Lennie_Vienna_headshot_Greg.png"
   name             : "Lennie Wells"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "StatML PhD student"

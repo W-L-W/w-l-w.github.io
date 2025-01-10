@@ -8,11 +8,12 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+
+  # followed Joe's lead and used pdf CV  
   # - title: "CV"
   #   url: /cv/
