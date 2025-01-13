@@ -1,7 +1,7 @@
 ---
 title: "Unconstrained Stochastic CCA: Unifying Multiview and Self-Supervised Learning"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-10-unconstrained-stochastic-cca
 excerpt: 'We propose a novel formulation of Canonical Correlation Analysis (CCA) that leads to fast algorithms for Stochastic CCA and Deep CCA. We show this also immediately gives a Self-Supervised Learning (SSL) method that is competitive with an existing family of closely-related SSL techniques.'
 date: 2023-10-02
