@@ -22,7 +22,7 @@ text = ax.text(0.0, 0.5, 'LW',
 plt.tight_layout()
 
 # Save as SVG with transparent background
-plt.savefig('LW_arial.svg', 
+plt.savefig('../images/LW_arial.svg', 
             format='svg',
             transparent=True,
             bbox_inches='tight',
