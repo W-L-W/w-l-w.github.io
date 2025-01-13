@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="927pt" version="1.1" viewBox="0 0 1541 927" width="1541pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="
+M1.13687e-13 927.525
+L1541.85 927.525
+L1541.85 0
+L1.13687e-13 0
+z
+" style="fill:none;opacity:0;"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <!-- LW -->
+    <defs>
+     <path d="
+M7.67188 0
+L7.67188 71
+L22.125 71
+L22.125 12.0625
+L58.0625 12.0625
+L58.0625 0
+z
+" id="Arial-BoldMT-4c"/>
+     <path d="
+M17.4375 0
+L0.34375 71.5781
+L15.1406 71.5781
+L25.9219 22.4062
+L39.0156 71.5781
+L56.2031 71.5781
+L68.75 21.5781
+L79.7344 71.5781
+L94.2812 71.5781
+L76.9062 0
+L61.5781 0
+L47.3125 53.5156
+L33.1094 0
+z
+" id="Arial-BoldMT-57"/>
+    </defs>
+    <g transform="translate(7.2 722.98125)scale(10.0 -10.0)">
+     <use xlink:href="#Arial-BoldMT-4c"/>
+     <use x="55.583984375" xlink:href="#Arial-BoldMT-57"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
