@@ -11,7 +11,7 @@ Hi, I'm Lennie!
 I'm a PhD student at the University of Cambridge supervised by [Sergio Bacallado](http://www.statslab.cam.ac.uk/~sb2116/).
 My master's degree specialised in probability and theoretical statistics, but since then my research has transitioned from applied stats and machine learning through to AI Safety.
 
-I am convinced of both the transformative opportunities and catastrophic risks presented by the next generation of AI systems. I am working to increase the potential for upside and decrease the potential for downside from AI.
+I am convinced of both the transformative opportunities and catastrophic risks presented by the next generation of AI systems. I am working to increase the potential for upside and decrease the potential for downside.
 
 I usually work from [Meridian](https://www.meridiancambridge.org/) office, from which I help with initiatives by [Cambridge AI Safety Hub](https://www.cambridgeaisafety.org) (CAISH) and [Geodesic Research](https://www.geodesicresearch.org/).
 
