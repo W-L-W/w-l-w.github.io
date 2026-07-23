@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 Hi, I'm Lennie!
-I'm a PhD student at the University of Cambridge supervised by [Sergio Bacallado](http://www.statslab.cam.ac.uk/~sb2116/).
+I've recently completed my Statistics PhD at Cambridge supervised by [Sergio Bacallado](http://www.statslab.cam.ac.uk/~sb2116/).
 My master's degree specialised in probability and theoretical statistics, but since then my research has transitioned from applied stats and machine learning through to AI Safety.
 
 I am convinced of both the transformative opportunities and catastrophic risks presented by the next generation of AI systems. I am working to increase the potential for upside and decrease the potential for downside.
 
 I usually work from [Meridian](https://www.meridiancambridge.org/) office, from which I help with initiatives by [Cambridge AI Safety Hub](https://www.cambridgeaisafety.org) (CAISH) and [Geodesic Research](https://www.geodesicresearch.org/).
 
-I am currently working on control and scalable oversight.
+I have recently been working on control and scalable oversight.
 
 In a previous life, my PhD research focussed on [Canonical Correlation Analysis](https://en.wikipedia.org/wiki/Canonical_correlation) (CCA), a dimension reduction technique for multi-view data.
 I think this method is under-utilised. I have developed a broad understanding of the technique, and some novel insights; let me know if you would like to use CCA in your work - I would be more than happy to chat.
